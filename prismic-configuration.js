@@ -1,6 +1,6 @@
 module.exports = {
 
-  apiEndpoint: 'https://projectche.cdn.prismic.io/api/v2',
+  apiEndpoint: 'https://thinkinglama1.cdn.prismic.io/api/v2',
 
   // -- Access token if the Master is not open
   // accessToken: 'xxxxxx',
